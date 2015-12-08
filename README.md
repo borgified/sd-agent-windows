@@ -16,4 +16,5 @@ to
 `Microsoft Visual Studio Solution File, Format Version 12.00 Visual Studio Express 2012 for Windows Desktop`
 
 Removed `BoxedIce.ServerDensity.Agent.Installer` dependency.
+
 Removed `BoxedIce.ServerDensity.Agent.MongoDB` dependency.
